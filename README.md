@@ -1,4 +1,4 @@
-# Test agorithms for NewGen Vision
+# Test algorithms for NewGen Vision
 
 ## Filter algorithm description
 This simple filter algorithm takes an array of unfiltered courses and range that user needed as input.
